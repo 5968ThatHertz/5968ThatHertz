@@ -1,5 +1,5 @@
 ### Hi, we're the Westfield Robotics Club. 👋
-We're a club of ~15 members based in Westfield.
+We're a club of ~15 members based in Westfield, NJ.
 
 We participate in the First Tech Challenge as Team 5968 "That Hertz".
 
